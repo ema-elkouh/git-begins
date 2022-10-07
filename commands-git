@@ -2,3 +2,4 @@ git clone git@github.com:ema-elkouh/git-begins.git
 git add 
 git commit
 git push
+git pull
